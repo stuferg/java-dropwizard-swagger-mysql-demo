@@ -1,7 +1,7 @@
 # true
 
 How to start the true application
----
+This is something I've added.
 
 1. Run `mvn clean install` to build your application
 1. Start application with `java -jar target/DropwizardDemo-1.0-SNAPSHOT.jar server config.yml`
